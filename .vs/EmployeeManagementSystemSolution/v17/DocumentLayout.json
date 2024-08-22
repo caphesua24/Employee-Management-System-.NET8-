@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{149CC4BC-85B5-4E8D-A0DE-C6CB1363CFB8}|ServerLibrary\\ServerLibrary.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\serverlibrary\\repositories\\implementations\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{149CC4BC-85B5-4E8D-A0DE-C6CB1363CFB8}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\repositories\\implementations\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3290E808-E286-4E82-AF01-AE64244C4C6F}|BaseLibrary\\BaseLibrary.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\baselibrary\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3290E808-E286-4E82-AF01-AE64244C4C6F}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3290E808-E286-4E82-AF01-AE64244C4C6F}|BaseLibrary\\BaseLibrary.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\baselibrary\\dtos\\accountbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3290E808-E286-4E82-AF01-AE64244C4C6F}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\accountbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3290E808-E286-4E82-AF01-AE64244C4C6F}|BaseLibrary\\BaseLibrary.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\baselibrary\\dtos\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3290E808-E286-4E82-AF01-AE64244C4C6F}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountBase.cs",
+              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\BaseLibrary\\DTOs\\AccountBase.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\AccountBase.cs",
+              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\BaseLibrary\\DTOs\\AccountBase.cs",
+              "RelativeToolTip": "BaseLibrary\\DTOs\\AccountBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:29:43.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\BaseLibrary\\DTOs\\Register.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\Register.cs",
+              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\BaseLibrary\\DTOs\\Register.cs",
+              "RelativeToolTip": "BaseLibrary\\DTOs\\Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:29:37.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\BaseLibrary\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\ApplicationUser.cs",
+              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\BaseLibrary\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:28:32.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserAccountRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "RelativeToolTip": "ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAUwJMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:25:37.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
