@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{149CC4BC-85B5-4E8D-A0DE-C6CB1363CFB8}|ServerLibrary\\ServerLibrary.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\serverlibrary\\repositories\\implementations\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{149CC4BC-85B5-4E8D-A0DE-C6CB1363CFB8}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\repositories\\implementations\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\client\\pages\\accountpage\\registerpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|solutionrelative:client\\pages\\accountpage\\registerpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3290E808-E286-4E82-AF01-AE64244C4C6F}|BaseLibrary\\BaseLibrary.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\baselibrary\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3290E808-E286-4E82-AF01-AE64244C4C6F}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3290E808-E286-4E82-AF01-AE64244C4C6F}|BaseLibrary\\BaseLibrary.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\baselibrary\\dtos\\accountbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3290E808-E286-4E82-AF01-AE64244C4C6F}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\accountbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|solutionrelative:client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3290E808-E286-4E82-AF01-AE64244C4C6F}|BaseLibrary\\BaseLibrary.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\baselibrary\\dtos\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3290E808-E286-4E82-AF01-AE64244C4C6F}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{963947F8-7801-4C5F-9ACE-518C6317B791}|ClientLibrary\\ClientLibrary.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\clientlibrary\\helpers\\customauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963947F8-7801-4C5F-9ACE-518C6317B791}|ClientLibrary\\ClientLibrary.csproj|solutionrelative:clientlibrary\\helpers\\customauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,55 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountBase.cs",
-              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\BaseLibrary\\DTOs\\AccountBase.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\AccountBase.cs",
-              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\BaseLibrary\\DTOs\\AccountBase.cs",
-              "RelativeToolTip": "BaseLibrary\\DTOs\\AccountBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T20:29:43.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Register.cs",
-              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\BaseLibrary\\DTOs\\Register.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\Register.cs",
-              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\BaseLibrary\\DTOs\\Register.cs",
-              "RelativeToolTip": "BaseLibrary\\DTOs\\Register.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T20:29:37.754Z"
+              "DocumentIndex": 0,
+              "Title": "RegisterPage.razor",
+              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\AccountPage\\RegisterPage.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\AccountPage\\RegisterPage.razor",
+              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\AccountPage\\RegisterPage.razor",
+              "RelativeToolTip": "Client\\Pages\\AccountPage\\RegisterPage.razor",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T19:51:08.99Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\BaseLibrary\\Entities\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\ApplicationUser.cs",
-              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\BaseLibrary\\Entities\\ApplicationUser.cs",
-              "RelativeToolTip": "BaseLibrary\\Entities\\ApplicationUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAARAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T20:28:32.463Z"
+              "WhenOpened": "2024-08-27T19:48:05.647Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserAccountRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
-              "RelativeDocumentMoniker": "ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
-              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
-              "RelativeToolTip": "ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
-              "ViewState": "AQIAAKIAAAAAAAAAAAAUwJMAAAACAAAA",
+              "DocumentIndex": 2,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\App.razor",
+              "RelativeDocumentMoniker": "Client\\App.razor",
+              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\App.razor",
+              "RelativeToolTip": "Client\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T19:46:23.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomAuthenticationStateProvider.cs",
+              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\ClientLibrary\\Helpers\\CustomAuthenticationStateProvider.cs",
+              "RelativeDocumentMoniker": "ClientLibrary\\Helpers\\CustomAuthenticationStateProvider.cs",
+              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\ClientLibrary\\Helpers\\CustomAuthenticationStateProvider.cs",
+              "RelativeToolTip": "ClientLibrary\\Helpers\\CustomAuthenticationStateProvider.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T20:25:37.505Z",
+              "WhenOpened": "2024-08-27T19:12:27.271Z",
               "EditorCaption": ""
             }
           ]

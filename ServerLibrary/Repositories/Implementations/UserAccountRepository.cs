@@ -132,7 +132,7 @@ namespace ServerLibrary.Repositories.Implementations
 				issuer: config.Value.Issuer,
 				audience: config.Value.Audience,
 				claims: userClaims,
-				expires: DateTime.Now.AddDays(1),
+                expires: DateTime.Now.AddSeconds(2),
 				signingCredentials: credentials
 				);
 			//generate token to use for user authentication in other api requests
@@ -145,6 +145,7 @@ namespace ServerLibrary.Repositories.Implementations
 		//FIND ROLE NAME IN SystemRole TABLE IN DATABASE
 		private async Task<SystemRole> FindRoleName(int roleId) => await appDbContext.SystemRoles.FirstOrDefaultAsync(_=> _.Id == roleId);
 
+		//This method generates a long Base64 string from a random byte array of size 64 bytes.
 		private static string GenerateRefreshToken() => Convert.ToBase64String(RandomNumberGenerator.GetBytes(64));
 		
 		//this method will find the user in database by email.
@@ -163,6 +164,7 @@ namespace ServerLibrary.Repositories.Implementations
 			return (T)result.Entity;
 		}
 
+		//refresh user's JWT token
 		public async Task<LoginResponse> RefreshTokenAsync(RefreshToken token)
 		{
 			if (token is null) return new LoginResponse(false, "Model is empty.");

@@ -1,43 +1,43 @@
 {
   "Files": [
     {
-      "Id": "D:\\Projects\\EmployeeManagementSystem_NET8\\EmployeeManagementSystemSolution\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "D:\\Projects\\EmployeeManagementSystem_NET8\\EmployeeManagementSystemSolution\\Client\\obj\\Debug\\net8.0\\compressed\\ar5ezm8xyr.gz",
+      "Id": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\obj\\Debug\\net8.0\\compressed\\e15jsxzxl9.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "D:\\Projects\\EmployeeManagementSystem_NET8\\EmployeeManagementSystemSolution\\Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Client.styles.css",
+      "Id": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Client.styles.css",
       "PackagePath": "staticwebassets\\Client.styles.css"
     },
     {
-      "Id": "D:\\Projects\\EmployeeManagementSystem_NET8\\EmployeeManagementSystemSolution\\Client\\wwwroot\\css\\app.css",
+      "Id": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "D:\\Projects\\EmployeeManagementSystem_NET8\\EmployeeManagementSystemSolution\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Projects\\EmployeeManagementSystem_NET8\\EmployeeManagementSystemSolution\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Projects\\EmployeeManagementSystem_NET8\\EmployeeManagementSystemSolution\\Client\\wwwroot\\favicon.png",
+      "Id": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "D:\\Projects\\EmployeeManagementSystem_NET8\\EmployeeManagementSystemSolution\\Client\\wwwroot\\icon-192.png",
+      "Id": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "D:\\Projects\\EmployeeManagementSystem_NET8\\EmployeeManagementSystemSolution\\Client\\wwwroot\\index.html",
+      "Id": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "D:\\Projects\\EmployeeManagementSystem_NET8\\EmployeeManagementSystemSolution\\Client\\wwwroot\\sample-data\\weather.json",
+      "Id": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {
