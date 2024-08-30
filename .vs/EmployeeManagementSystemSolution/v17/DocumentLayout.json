@@ -3,20 +3,64 @@
   "WorkspaceRootPath": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\client\\pages\\departmentpages\\generaldepartmentdialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|solutionrelative:client\\pages\\departmentpages\\generaldepartmentdialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\client\\pages\\departmentpages\\generaldepartmentpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|solutionrelative:client\\pages\\departmentpages\\generaldepartmentpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\client\\pages\\contentpage\\homepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|solutionrelative:client\\pages\\contentpage\\homepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3290E808-E286-4E82-AF01-AE64244C4C6F}|BaseLibrary\\BaseLibrary.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\baselibrary\\dtos\\generaldepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3290E808-E286-4E82-AF01-AE64244C4C6F}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\generaldepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3290E808-E286-4E82-AF01-AE64244C4C6F}|BaseLibrary\\BaseLibrary.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\baselibrary\\dtos\\basedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3290E808-E286-4E82-AF01-AE64244C4C6F}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\basedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|solutionrelative:client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\client\\applicationstates\\departmentstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|solutionrelative:client\\applicationstates\\departmentstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\client\\pages\\otherpages\\profiledropdown.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|solutionrelative:client\\pages\\otherpages\\profiledropdown.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|solutionrelative:client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\client\\pages\\administrationpage\\tablebanner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|solutionrelative:client\\pages\\administrationpage\\tablebanner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\client\\pages\\authenticationpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|solutionrelative:client\\pages\\authenticationpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\client\\pages\\accountpage\\loginpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|solutionrelative:client\\pages\\accountpage\\loginpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\client\\pages\\accountpage\\registerpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|solutionrelative:client\\pages\\accountpage\\registerpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\client\\layout\\authenticationlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|solutionrelative:client\\layout\\authenticationlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|solutionrelative:client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{963947F8-7801-4C5F-9ACE-518C6317B791}|ClientLibrary\\ClientLibrary.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\clientlibrary\\helpers\\customauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963947F8-7801-4C5F-9ACE-518C6317B791}|ClientLibrary\\ClientLibrary.csproj|solutionrelative:clientlibrary\\helpers\\customauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\client\\pages\\otherpages\\buttonloadingspinner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|solutionrelative:client\\pages\\otherpages\\buttonloadingspinner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,54 +75,183 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RegisterPage.razor",
-              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\AccountPage\\RegisterPage.razor",
-              "RelativeDocumentMoniker": "Client\\Pages\\AccountPage\\RegisterPage.razor",
-              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\AccountPage\\RegisterPage.razor",
-              "RelativeToolTip": "Client\\Pages\\AccountPage\\RegisterPage.razor",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Title": "GeneralDepartmentDialog.razor",
+              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\DepartmentPages\\GeneralDepartmentDialog.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\DepartmentPages\\GeneralDepartmentDialog.razor",
+              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\DepartmentPages\\GeneralDepartmentDialog.razor",
+              "RelativeToolTip": "Client\\Pages\\DepartmentPages\\GeneralDepartmentDialog.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T19:51:08.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Program.cs",
-              "RelativeDocumentMoniker": "Client\\Program.cs",
-              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Program.cs",
-              "RelativeToolTip": "Client\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T19:48:05.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.razor",
-              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\App.razor",
-              "RelativeDocumentMoniker": "Client\\App.razor",
-              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\App.razor",
-              "RelativeToolTip": "Client\\App.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T19:46:23.583Z",
+              "WhenOpened": "2024-08-30T19:42:48.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CustomAuthenticationStateProvider.cs",
-              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\ClientLibrary\\Helpers\\CustomAuthenticationStateProvider.cs",
-              "RelativeDocumentMoniker": "ClientLibrary\\Helpers\\CustomAuthenticationStateProvider.cs",
-              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\ClientLibrary\\Helpers\\CustomAuthenticationStateProvider.cs",
-              "RelativeToolTip": "ClientLibrary\\Helpers\\CustomAuthenticationStateProvider.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Title": "GeneralDepartmentDTO.cs",
+              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\BaseLibrary\\DTOs\\GeneralDepartmentDTO.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\GeneralDepartmentDTO.cs",
+              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\BaseLibrary\\DTOs\\GeneralDepartmentDTO.cs",
+              "RelativeToolTip": "BaseLibrary\\DTOs\\GeneralDepartmentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T19:12:27.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T19:31:49.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseDepartmentDTO.cs",
+              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\BaseLibrary\\DTOs\\BaseDepartmentDTO.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\BaseDepartmentDTO.cs",
+              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\BaseLibrary\\DTOs\\BaseDepartmentDTO.cs",
+              "RelativeToolTip": "BaseLibrary\\DTOs\\BaseDepartmentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T19:29:11.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeneralDepartmentPage.razor",
+              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\DepartmentPages\\GeneralDepartmentPage.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\DepartmentPages\\GeneralDepartmentPage.razor",
+              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\DepartmentPages\\GeneralDepartmentPage.razor",
+              "RelativeToolTip": "Client\\Pages\\DepartmentPages\\GeneralDepartmentPage.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T19:17:28.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentState.cs",
+              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\ApplicationStates\\DepartmentState.cs",
+              "RelativeDocumentMoniker": "Client\\ApplicationStates\\DepartmentState.cs",
+              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\ApplicationStates\\DepartmentState.cs",
+              "RelativeToolTip": "Client\\ApplicationStates\\DepartmentState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T16:59:10.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfileDropDown.razor",
+              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\OtherPages\\ProfileDropDown.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\OtherPages\\ProfileDropDown.razor",
+              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\OtherPages\\ProfileDropDown.razor",
+              "RelativeToolTip": "Client\\Pages\\OtherPages\\ProfileDropDown.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T15:14:22.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.razor",
+              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\ContentPage\\HomePage.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\ContentPage\\HomePage.razor",
+              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\ContentPage\\HomePage.razor",
+              "RelativeToolTip": "Client\\Pages\\ContentPage\\HomePage.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T23:09:34.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TableBanner.razor",
+              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\AdministrationPage\\TableBanner.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\AdministrationPage\\TableBanner.razor",
+              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\AdministrationPage\\TableBanner.razor",
+              "RelativeToolTip": "Client\\Pages\\AdministrationPage\\TableBanner.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T23:09:30.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ButtonLoadingSpinner.razor",
+              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\OtherPages\\ButtonLoadingSpinner.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\OtherPages\\ButtonLoadingSpinner.razor",
+              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\OtherPages\\ButtonLoadingSpinner.razor",
+              "RelativeToolTip": "Client\\Pages\\OtherPages\\ButtonLoadingSpinner.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T20:10:08.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Client\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Client\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAIIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T19:44:22.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterPage.razor",
+              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\AccountPage\\RegisterPage.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\AccountPage\\RegisterPage.razor",
+              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\AccountPage\\RegisterPage.razor",
+              "RelativeToolTip": "Client\\Pages\\AccountPage\\RegisterPage.razor",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAgwGgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T18:32:57.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginPage.razor",
+              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\AccountPage\\LoginPage.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\AccountPage\\LoginPage.razor",
+              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\AccountPage\\LoginPage.razor",
+              "RelativeToolTip": "Client\\Pages\\AccountPage\\LoginPage.razor",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAgwF4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T16:41:56.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Client\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Client\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T15:48:40.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthenticationPage.razor",
+              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\AuthenticationPage.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\AuthenticationPage.razor",
+              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\AuthenticationPage.razor",
+              "RelativeToolTip": "Client\\Pages\\AuthenticationPage.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T21:38:58.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthenticationLayout.razor",
+              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Layout\\AuthenticationLayout.razor",
+              "RelativeDocumentMoniker": "Client\\Layout\\AuthenticationLayout.razor",
+              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Layout\\AuthenticationLayout.razor",
+              "RelativeToolTip": "Client\\Layout\\AuthenticationLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T16:27:44.941Z"
             }
           ]
         }

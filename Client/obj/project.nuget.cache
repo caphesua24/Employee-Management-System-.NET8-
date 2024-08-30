@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vrbZJq4C2wo=",
+  "dgSpecHash": "zjPis68puUw=",
   "success": true,
   "projectFilePath": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Client.csproj",
   "expectedPackageFiles": [
@@ -41,11 +41,16 @@
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.8\\microsoft.jsinterop.webassembly.8.0.8.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.7\\microsoft.net.sdk.webassembly.pack.8.0.7.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\syncfusion.blazor.buttons\\26.2.11\\syncfusion.blazor.buttons.26.2.11.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\syncfusion.blazor.core\\26.2.11\\syncfusion.blazor.core.26.2.11.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\syncfusion.blazor.popups\\26.2.11\\syncfusion.blazor.popups.26.2.11.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\syncfusion.blazor.themes\\26.2.11\\syncfusion.blazor.themes.26.2.11.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\syncfusion.licensing\\26.2.11\\syncfusion.licensing.26.2.11.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.0.2\\system.identitymodel.tokens.jwt.8.0.2.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
-    "C:\\Users\\ASUS\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.text.json\\8.0.4\\system.text.json.8.0.4.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.7.nupkg.sha512"
   ],
   "logs": []
