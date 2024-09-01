@@ -42,28 +42,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFBhZ2VcUmVnaXN0ZXJQYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/AdministrationPage/TableBanner.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5pc3RyYXRpb25QYWdlXFRhYmxlQmFubmVyLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/AuthenticationPage.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb25QYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/ContentPage/DepartmentPages/GeneralDepartmentDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFBhZ2VcRGVwYXJ0bWVudFBhZ2VzXEdlbmVyYWxEZXBhcnRtZW50RGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/ContentPage/DepartmentPages/GeneralDepartmentPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFBhZ2VcRGVwYXJ0bWVudFBhZ2VzXEdlbmVyYWxEZXBhcnRtZW50UGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/ContentPage/HomePage.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFBhZ2VcSG9tZVBhZ2UucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/DepartmentPages/GeneralDepartmentDialog.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwYXJ0bWVudFBhZ2VzXEdlbmVyYWxEZXBhcnRtZW50RGlhbG9nLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/DepartmentPages/GeneralDepartmentPage.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwYXJ0bWVudFBhZ2VzXEdlbmVyYWxEZXBhcnRtZW50UGFnZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/OtherPages/ButtonLoadingSpinner.razor]
@@ -74,8 +66,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3RoZXJQYWdlc1xQcm9maWxlRHJvcERvd24ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+[D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/OtherPages/TableBanner.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3RoZXJQYWdlc1xUYWJsZUJhbm5lci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/_Imports.razor]
