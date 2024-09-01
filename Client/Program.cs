@@ -1,4 +1,4 @@
-using Blazored.LocalStorage;
+﻿using Blazored.LocalStorage;
 using Client;
 using Client.ApplicationStates;
 using ClientLibrary.Helpers;
@@ -9,8 +9,13 @@ using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using Syncfusion.Blazor;
 using Syncfusion.Blazor.Popups;
+using Syncfusion.Licensing;
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
+
+// Register Syncfusion license key
+SyncfusionLicenseProvider.RegisterLicense("Ngo9BigBOggjHTQxAR8/V1NCaF1cXGJCd0x1RXxbf1x0ZFRGal1TTnZZUiweQnxTdEFjUXxfcXRUQ2JbVkd/Xg==");
+
 builder.RootComponents.Add<App>("#app");
 builder.RootComponents.Add<HeadOutlet>("head::after");
 
