@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{149CC4BC-85B5-4E8D-A0DE-C6CB1363CFB8}|ServerLibrary\\ServerLibrary.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\serverlibrary\\repositories\\implementations\\generaldepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{149CC4BC-85B5-4E8D-A0DE-C6CB1363CFB8}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\repositories\\implementations\\generaldepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\client\\pages\\contentpage\\employeepages\\addorupdateemployeepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|solutionrelative:client\\pages\\contentpage\\employeepages\\addorupdateemployeepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\client\\pages\\contentpage\\departmentpages\\generaldepartmentpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|solutionrelative:client\\pages\\contentpage\\departmentpages\\generaldepartmentpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\client\\pages\\contentpage\\departmentpages\\generaldepartmentdialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|solutionrelative:client\\pages\\contentpage\\departmentpages\\generaldepartmentdialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|d:\\projects\\employeemanagementsystem_net8\\employee-management-system-with.net8\\client\\pages\\contentpage\\employeepages\\employeepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0E070F4-0802-4E66-A484-D7696615ADF1}|Client\\Client.csproj|solutionrelative:client\\pages\\contentpage\\employeepages\\employeepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GeneralDepartmentRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\ServerLibrary\\Repositories\\Implementations\\GeneralDepartmentRepository.cs",
-              "RelativeDocumentMoniker": "ServerLibrary\\Repositories\\Implementations\\GeneralDepartmentRepository.cs",
-              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\ServerLibrary\\Repositories\\Implementations\\GeneralDepartmentRepository.cs",
-              "RelativeToolTip": "ServerLibrary\\Repositories\\Implementations\\GeneralDepartmentRepository.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAA5wCAAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T21:46:11.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GeneralDepartmentDialog.razor",
-              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\ContentPage\\DepartmentPages\\GeneralDepartmentDialog.razor",
-              "RelativeDocumentMoniker": "Client\\Pages\\ContentPage\\DepartmentPages\\GeneralDepartmentDialog.razor",
-              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\ContentPage\\DepartmentPages\\GeneralDepartmentDialog.razor",
-              "RelativeToolTip": "Client\\Pages\\ContentPage\\DepartmentPages\\GeneralDepartmentDialog.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Title": "AddOrUpdateEmployeePage.razor",
+              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\ContentPage\\EmployeePages\\AddOrUpdateEmployeePage.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\ContentPage\\EmployeePages\\AddOrUpdateEmployeePage.razor",
+              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\ContentPage\\EmployeePages\\AddOrUpdateEmployeePage.razor",
+              "RelativeToolTip": "Client\\Pages\\ContentPage\\EmployeePages\\AddOrUpdateEmployeePage.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-01T21:22:57.121Z",
+              "WhenOpened": "2024-09-10T04:31:53.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GeneralDepartmentPage.razor",
-              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\ContentPage\\DepartmentPages\\GeneralDepartmentPage.razor",
-              "RelativeDocumentMoniker": "Client\\Pages\\ContentPage\\DepartmentPages\\GeneralDepartmentPage.razor",
-              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\ContentPage\\DepartmentPages\\GeneralDepartmentPage.razor",
-              "RelativeToolTip": "Client\\Pages\\ContentPage\\DepartmentPages\\GeneralDepartmentPage.razor",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAGcAAAAVAAAA",
+              "Title": "EmployeePage.razor",
+              "DocumentMoniker": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\ContentPage\\EmployeePages\\EmployeePage.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\ContentPage\\EmployeePages\\EmployeePage.razor",
+              "ToolTip": "D:\\Projects\\EmployeeManagementSystem_NET8\\Employee-Management-System-With.NET8\\Client\\Pages\\ContentPage\\EmployeePages\\EmployeePage.razor",
+              "RelativeToolTip": "Client\\Pages\\ContentPage\\EmployeePages\\EmployeePage.razor",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-01T21:07:20.814Z",
+              "WhenOpened": "2024-09-10T03:55:04.427Z",
               "EditorCaption": ""
             }
           ]

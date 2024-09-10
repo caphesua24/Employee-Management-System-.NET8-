@@ -630,10 +630,10 @@
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.targets": {}
         }
       },
-      "Syncfusion.Blazor.Buttons/26.2.11": {
+      "Syncfusion.Blazor.Buttons/26.2.12": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Blazor.Core": "26.2.11"
+          "Syncfusion.Blazor.Core": "26.2.12"
         },
         "compile": {
           "lib/net8.0/Syncfusion.Blazor.Buttons.dll": {
@@ -652,11 +652,36 @@
           "buildMultiTargeting/Syncfusion.Blazor.Buttons.props": {}
         }
       },
-      "Syncfusion.Blazor.Core/26.2.11": {
+      "Syncfusion.Blazor.Calendars/26.2.12": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Blazor.Buttons": "26.2.12",
+          "Syncfusion.Blazor.Core": "26.2.12",
+          "Syncfusion.Blazor.Inputs": "26.2.12",
+          "Syncfusion.Blazor.Lists": "26.2.12"
+        },
+        "compile": {
+          "lib/net8.0/Syncfusion.Blazor.Calendars.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.Blazor.Calendars.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Syncfusion.Blazor.Calendars.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Syncfusion.Blazor.Calendars.props": {}
+        }
+      },
+      "Syncfusion.Blazor.Core/26.2.12": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "8.0.0",
-          "Syncfusion.Licensing": "26.2.11",
+          "Syncfusion.Licensing": "26.2.12",
           "System.Text.Json": "8.0.4"
         },
         "compile": {
@@ -676,11 +701,194 @@
           "buildMultiTargeting/Syncfusion.Blazor.Core.props": {}
         }
       },
-      "Syncfusion.Blazor.Popups/26.2.11": {
+      "Syncfusion.Blazor.Data/26.2.12": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Blazor.Buttons": "26.2.11",
-          "Syncfusion.Blazor.Core": "26.2.11"
+          "Syncfusion.Blazor.Core": "26.2.12"
+        },
+        "compile": {
+          "lib/net8.0/Syncfusion.Blazor.Data.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.Blazor.Data.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Syncfusion.Blazor.Data.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Syncfusion.Blazor.Data.props": {}
+        }
+      },
+      "Syncfusion.Blazor.DropDowns/26.2.12": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Blazor.Buttons": "26.2.12",
+          "Syncfusion.Blazor.Core": "26.2.12",
+          "Syncfusion.Blazor.Data": "26.2.12",
+          "Syncfusion.Blazor.Inputs": "26.2.12",
+          "Syncfusion.Blazor.Notifications": "26.2.12",
+          "Syncfusion.Blazor.Spinner": "26.2.12"
+        },
+        "compile": {
+          "lib/net8.0/Syncfusion.Blazor.DropDowns.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.Blazor.DropDowns.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Syncfusion.Blazor.DropDowns.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Syncfusion.Blazor.DropDowns.props": {}
+        }
+      },
+      "Syncfusion.Blazor.Grid/26.2.12": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Blazor.Buttons": "26.2.12",
+          "Syncfusion.Blazor.Calendars": "26.2.12",
+          "Syncfusion.Blazor.Core": "26.2.12",
+          "Syncfusion.Blazor.Data": "26.2.12",
+          "Syncfusion.Blazor.DropDowns": "26.2.12",
+          "Syncfusion.Blazor.Inputs": "26.2.12",
+          "Syncfusion.Blazor.Navigations": "26.2.12",
+          "Syncfusion.Blazor.Popups": "26.2.12",
+          "Syncfusion.Blazor.Spinner": "26.2.12",
+          "Syncfusion.ExcelExport.Net.Core": "26.2.12",
+          "Syncfusion.PdfExport.Net.Core": "26.2.12"
+        },
+        "compile": {
+          "lib/net8.0/Syncfusion.Blazor.Grids.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.Blazor.Grids.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Syncfusion.Blazor.Grid.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Syncfusion.Blazor.Grid.props": {}
+        }
+      },
+      "Syncfusion.Blazor.Inputs/26.2.12": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Blazor.Core": "26.2.12",
+          "Syncfusion.Blazor.Data": "26.2.12",
+          "Syncfusion.Blazor.Popups": "26.2.12",
+          "Syncfusion.Blazor.Spinner": "26.2.12",
+          "Syncfusion.Blazor.SplitButtons": "26.2.12"
+        },
+        "compile": {
+          "lib/net8.0/Syncfusion.Blazor.Inputs.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.Blazor.Inputs.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Syncfusion.Blazor.Inputs.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Syncfusion.Blazor.Inputs.props": {}
+        }
+      },
+      "Syncfusion.Blazor.Lists/26.2.12": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Blazor.Buttons": "26.2.12",
+          "Syncfusion.Blazor.Core": "26.2.12",
+          "Syncfusion.Blazor.Data": "26.2.12"
+        },
+        "compile": {
+          "lib/net8.0/Syncfusion.Blazor.Lists.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.Blazor.Lists.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Syncfusion.Blazor.Lists.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Syncfusion.Blazor.Lists.props": {}
+        }
+      },
+      "Syncfusion.Blazor.Navigations/26.2.12": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Blazor.Buttons": "26.2.12",
+          "Syncfusion.Blazor.Core": "26.2.12",
+          "Syncfusion.Blazor.Data": "26.2.12",
+          "Syncfusion.Blazor.DropDowns": "26.2.12",
+          "Syncfusion.Blazor.Inputs": "26.2.12",
+          "Syncfusion.Blazor.Lists": "26.2.12",
+          "Syncfusion.Blazor.Popups": "26.2.12",
+          "Syncfusion.Blazor.Spinner": "26.2.12"
+        },
+        "compile": {
+          "lib/net8.0/Syncfusion.Blazor.Navigations.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.Blazor.Navigations.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Syncfusion.Blazor.Navigations.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Syncfusion.Blazor.Navigations.props": {}
+        }
+      },
+      "Syncfusion.Blazor.Notifications/26.2.12": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Blazor.Buttons": "26.2.12",
+          "Syncfusion.Blazor.Core": "26.2.12"
+        },
+        "compile": {
+          "lib/net8.0/Syncfusion.Blazor.Notifications.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.Blazor.Notifications.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Syncfusion.Blazor.Notifications.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Syncfusion.Blazor.Notifications.props": {}
+        }
+      },
+      "Syncfusion.Blazor.Popups/26.2.12": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Blazor.Buttons": "26.2.12",
+          "Syncfusion.Blazor.Core": "26.2.12"
         },
         "compile": {
           "lib/net8.0/Syncfusion.Blazor.Popups.dll": {
@@ -699,7 +907,54 @@
           "buildMultiTargeting/Syncfusion.Blazor.Popups.props": {}
         }
       },
-      "Syncfusion.Blazor.Themes/26.2.11": {
+      "Syncfusion.Blazor.Spinner/26.2.12": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Blazor.Core": "26.2.12"
+        },
+        "compile": {
+          "lib/net8.0/Syncfusion.Blazor.Spinner.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.Blazor.Spinner.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Syncfusion.Blazor.Spinner.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Syncfusion.Blazor.Spinner.props": {}
+        }
+      },
+      "Syncfusion.Blazor.SplitButtons/26.2.12": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Blazor.Buttons": "26.2.12",
+          "Syncfusion.Blazor.Core": "26.2.12",
+          "Syncfusion.Blazor.Popups": "26.2.12",
+          "Syncfusion.Blazor.Spinner": "26.2.12"
+        },
+        "compile": {
+          "lib/net8.0/Syncfusion.Blazor.SplitButtons.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.Blazor.SplitButtons.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Syncfusion.Blazor.SplitButtons.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Syncfusion.Blazor.SplitButtons.props": {}
+        }
+      },
+      "Syncfusion.Blazor.Themes/26.2.12": {
         "type": "package",
         "compile": {
           "lib/net8.0/Syncfusion.Blazor.Themes.dll": {
@@ -718,13 +973,39 @@
           "buildMultiTargeting/Syncfusion.Blazor.Themes.props": {}
         }
       },
-      "Syncfusion.Licensing/26.2.11": {
+      "Syncfusion.ExcelExport.Net.Core/26.2.12": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Syncfusion.ExcelExport.Net.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.ExcelExport.Net.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.Licensing/26.2.12": {
         "type": "package",
         "compile": {
           "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
           "lib/net8.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.PdfExport.Net.Core/26.2.12": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Syncfusion.PdfExport.Net.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.PdfExport.Net.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Diagnostics.DiagnosticSource/8.0.0": {
@@ -1477,10 +1758,10 @@
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.targets": {}
         }
       },
-      "Syncfusion.Blazor.Buttons/26.2.11": {
+      "Syncfusion.Blazor.Buttons/26.2.12": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Blazor.Core": "26.2.11"
+          "Syncfusion.Blazor.Core": "26.2.12"
         },
         "compile": {
           "lib/net8.0/Syncfusion.Blazor.Buttons.dll": {
@@ -1499,11 +1780,36 @@
           "buildMultiTargeting/Syncfusion.Blazor.Buttons.props": {}
         }
       },
-      "Syncfusion.Blazor.Core/26.2.11": {
+      "Syncfusion.Blazor.Calendars/26.2.12": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Blazor.Buttons": "26.2.12",
+          "Syncfusion.Blazor.Core": "26.2.12",
+          "Syncfusion.Blazor.Inputs": "26.2.12",
+          "Syncfusion.Blazor.Lists": "26.2.12"
+        },
+        "compile": {
+          "lib/net8.0/Syncfusion.Blazor.Calendars.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.Blazor.Calendars.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Syncfusion.Blazor.Calendars.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Syncfusion.Blazor.Calendars.props": {}
+        }
+      },
+      "Syncfusion.Blazor.Core/26.2.12": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "8.0.0",
-          "Syncfusion.Licensing": "26.2.11",
+          "Syncfusion.Licensing": "26.2.12",
           "System.Text.Json": "8.0.4"
         },
         "compile": {
@@ -1523,11 +1829,194 @@
           "buildMultiTargeting/Syncfusion.Blazor.Core.props": {}
         }
       },
-      "Syncfusion.Blazor.Popups/26.2.11": {
+      "Syncfusion.Blazor.Data/26.2.12": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Blazor.Buttons": "26.2.11",
-          "Syncfusion.Blazor.Core": "26.2.11"
+          "Syncfusion.Blazor.Core": "26.2.12"
+        },
+        "compile": {
+          "lib/net8.0/Syncfusion.Blazor.Data.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.Blazor.Data.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Syncfusion.Blazor.Data.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Syncfusion.Blazor.Data.props": {}
+        }
+      },
+      "Syncfusion.Blazor.DropDowns/26.2.12": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Blazor.Buttons": "26.2.12",
+          "Syncfusion.Blazor.Core": "26.2.12",
+          "Syncfusion.Blazor.Data": "26.2.12",
+          "Syncfusion.Blazor.Inputs": "26.2.12",
+          "Syncfusion.Blazor.Notifications": "26.2.12",
+          "Syncfusion.Blazor.Spinner": "26.2.12"
+        },
+        "compile": {
+          "lib/net8.0/Syncfusion.Blazor.DropDowns.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.Blazor.DropDowns.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Syncfusion.Blazor.DropDowns.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Syncfusion.Blazor.DropDowns.props": {}
+        }
+      },
+      "Syncfusion.Blazor.Grid/26.2.12": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Blazor.Buttons": "26.2.12",
+          "Syncfusion.Blazor.Calendars": "26.2.12",
+          "Syncfusion.Blazor.Core": "26.2.12",
+          "Syncfusion.Blazor.Data": "26.2.12",
+          "Syncfusion.Blazor.DropDowns": "26.2.12",
+          "Syncfusion.Blazor.Inputs": "26.2.12",
+          "Syncfusion.Blazor.Navigations": "26.2.12",
+          "Syncfusion.Blazor.Popups": "26.2.12",
+          "Syncfusion.Blazor.Spinner": "26.2.12",
+          "Syncfusion.ExcelExport.Net.Core": "26.2.12",
+          "Syncfusion.PdfExport.Net.Core": "26.2.12"
+        },
+        "compile": {
+          "lib/net8.0/Syncfusion.Blazor.Grids.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.Blazor.Grids.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Syncfusion.Blazor.Grid.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Syncfusion.Blazor.Grid.props": {}
+        }
+      },
+      "Syncfusion.Blazor.Inputs/26.2.12": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Blazor.Core": "26.2.12",
+          "Syncfusion.Blazor.Data": "26.2.12",
+          "Syncfusion.Blazor.Popups": "26.2.12",
+          "Syncfusion.Blazor.Spinner": "26.2.12",
+          "Syncfusion.Blazor.SplitButtons": "26.2.12"
+        },
+        "compile": {
+          "lib/net8.0/Syncfusion.Blazor.Inputs.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.Blazor.Inputs.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Syncfusion.Blazor.Inputs.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Syncfusion.Blazor.Inputs.props": {}
+        }
+      },
+      "Syncfusion.Blazor.Lists/26.2.12": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Blazor.Buttons": "26.2.12",
+          "Syncfusion.Blazor.Core": "26.2.12",
+          "Syncfusion.Blazor.Data": "26.2.12"
+        },
+        "compile": {
+          "lib/net8.0/Syncfusion.Blazor.Lists.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.Blazor.Lists.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Syncfusion.Blazor.Lists.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Syncfusion.Blazor.Lists.props": {}
+        }
+      },
+      "Syncfusion.Blazor.Navigations/26.2.12": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Blazor.Buttons": "26.2.12",
+          "Syncfusion.Blazor.Core": "26.2.12",
+          "Syncfusion.Blazor.Data": "26.2.12",
+          "Syncfusion.Blazor.DropDowns": "26.2.12",
+          "Syncfusion.Blazor.Inputs": "26.2.12",
+          "Syncfusion.Blazor.Lists": "26.2.12",
+          "Syncfusion.Blazor.Popups": "26.2.12",
+          "Syncfusion.Blazor.Spinner": "26.2.12"
+        },
+        "compile": {
+          "lib/net8.0/Syncfusion.Blazor.Navigations.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.Blazor.Navigations.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Syncfusion.Blazor.Navigations.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Syncfusion.Blazor.Navigations.props": {}
+        }
+      },
+      "Syncfusion.Blazor.Notifications/26.2.12": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Blazor.Buttons": "26.2.12",
+          "Syncfusion.Blazor.Core": "26.2.12"
+        },
+        "compile": {
+          "lib/net8.0/Syncfusion.Blazor.Notifications.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.Blazor.Notifications.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Syncfusion.Blazor.Notifications.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Syncfusion.Blazor.Notifications.props": {}
+        }
+      },
+      "Syncfusion.Blazor.Popups/26.2.12": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Blazor.Buttons": "26.2.12",
+          "Syncfusion.Blazor.Core": "26.2.12"
         },
         "compile": {
           "lib/net8.0/Syncfusion.Blazor.Popups.dll": {
@@ -1546,7 +2035,54 @@
           "buildMultiTargeting/Syncfusion.Blazor.Popups.props": {}
         }
       },
-      "Syncfusion.Blazor.Themes/26.2.11": {
+      "Syncfusion.Blazor.Spinner/26.2.12": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Blazor.Core": "26.2.12"
+        },
+        "compile": {
+          "lib/net8.0/Syncfusion.Blazor.Spinner.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.Blazor.Spinner.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Syncfusion.Blazor.Spinner.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Syncfusion.Blazor.Spinner.props": {}
+        }
+      },
+      "Syncfusion.Blazor.SplitButtons/26.2.12": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Blazor.Buttons": "26.2.12",
+          "Syncfusion.Blazor.Core": "26.2.12",
+          "Syncfusion.Blazor.Popups": "26.2.12",
+          "Syncfusion.Blazor.Spinner": "26.2.12"
+        },
+        "compile": {
+          "lib/net8.0/Syncfusion.Blazor.SplitButtons.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.Blazor.SplitButtons.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Syncfusion.Blazor.SplitButtons.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Syncfusion.Blazor.SplitButtons.props": {}
+        }
+      },
+      "Syncfusion.Blazor.Themes/26.2.12": {
         "type": "package",
         "compile": {
           "lib/net8.0/Syncfusion.Blazor.Themes.dll": {
@@ -1565,13 +2101,39 @@
           "buildMultiTargeting/Syncfusion.Blazor.Themes.props": {}
         }
       },
-      "Syncfusion.Licensing/26.2.11": {
+      "Syncfusion.ExcelExport.Net.Core/26.2.12": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Syncfusion.ExcelExport.Net.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.ExcelExport.Net.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.Licensing/26.2.12": {
         "type": "package",
         "compile": {
           "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
           "lib/net8.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.PdfExport.Net.Core/26.2.12": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Syncfusion.PdfExport.Net.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.PdfExport.Net.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Diagnostics.DiagnosticSource/8.0.0": {
@@ -2874,10 +3436,10 @@
         "tools/net8.0/System.Windows.Extensions.dll"
       ]
     },
-    "Syncfusion.Blazor.Buttons/26.2.11": {
-      "sha512": "SSQGV/hJOhk4E7EjK9+dCKXamyu57FcaB8CByka1FgdNVOcxJuXsgKHCPT8Rr+RTroE2Y+/agMM/90S5rdTSlw==",
+    "Syncfusion.Blazor.Buttons/26.2.12": {
+      "sha512": "MKPcwmbHayyJKJ/QP3cb3ytysrych5lhYvGkDnSrCevIjKgKkjJAhRpkyBiu00qk/FknS07vLd8gVqmMIHAijA==",
       "type": "package",
-      "path": "syncfusion.blazor.buttons/26.2.11",
+      "path": "syncfusion.blazor.buttons/26.2.12",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2895,15 +3457,43 @@
         "lib/net8.0/Syncfusion.Blazor.Buttons.xml",
         "staticwebassets/scripts/sf-floating-action-button.min.js",
         "staticwebassets/scripts/sf-speeddial.min.js",
-        "syncfusion.blazor.buttons.26.2.11.nupkg.sha512",
+        "syncfusion.blazor.buttons.26.2.12.nupkg.sha512",
         "syncfusion.blazor.buttons.nuspec",
         "syncfusion_logo.png"
       ]
     },
-    "Syncfusion.Blazor.Core/26.2.11": {
-      "sha512": "hY+RRYolzhyURIGrBN0bKpgkRpclnTezG9YZu8AO9BuOLy7l+7c+DVfXpAhe8IqZcJssS8ao+Fs4aZggjvnFkQ==",
+    "Syncfusion.Blazor.Calendars/26.2.12": {
+      "sha512": "RJaRSDsarkiB3HuvRiwY24MqGf17KcHJau8QjvT3c3xD01MlrqB8A3cMaGqBKXJvoYNhHSs1IHrJVeyXpoYTmQ==",
       "type": "package",
-      "path": "syncfusion.blazor.core/26.2.11",
+      "path": "syncfusion.blazor.calendars/26.2.12",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "build/Microsoft.AspNetCore.StaticWebAssets.props",
+        "build/Syncfusion.Blazor.Calendars.props",
+        "buildMultiTargeting/Syncfusion.Blazor.Calendars.props",
+        "buildTransitive/Syncfusion.Blazor.Calendars.props",
+        "lib/net6.0/Syncfusion.Blazor.Calendars.dll",
+        "lib/net6.0/Syncfusion.Blazor.Calendars.xml",
+        "lib/net7.0/Syncfusion.Blazor.Calendars.dll",
+        "lib/net7.0/Syncfusion.Blazor.Calendars.xml",
+        "lib/net8.0/Syncfusion.Blazor.Calendars.dll",
+        "lib/net8.0/Syncfusion.Blazor.Calendars.xml",
+        "staticwebassets/scripts/sf-calendar.min.js",
+        "staticwebassets/scripts/sf-datepicker.min.js",
+        "staticwebassets/scripts/sf-daterangepicker.min.js",
+        "staticwebassets/scripts/sf-timepicker.min.js",
+        "syncfusion.blazor.calendars.26.2.12.nupkg.sha512",
+        "syncfusion.blazor.calendars.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.Blazor.Core/26.2.12": {
+      "sha512": "6gxEu7LeG9h9aqv1TkHst6ISYP7uzybP+grOP0JNf9LZPf5f8fMUIKylK63DF7KPqA9lUZGyFSdWJvg49G1VwA==",
+      "type": "package",
+      "path": "syncfusion.blazor.core/26.2.12",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2925,15 +3515,215 @@
         "staticwebassets/scripts/svgbase.min.js",
         "staticwebassets/scripts/syncfusion-blazor-base.min.js",
         "staticwebassets/scripts/syncfusion-blazor.min.js",
-        "syncfusion.blazor.core.26.2.11.nupkg.sha512",
+        "syncfusion.blazor.core.26.2.12.nupkg.sha512",
         "syncfusion.blazor.core.nuspec",
         "syncfusion_logo.png"
       ]
     },
-    "Syncfusion.Blazor.Popups/26.2.11": {
-      "sha512": "Afe5Blh6OfrOMLTXoIsh+SlGMljXMv/odIppeZ8Cb3sQ1cknwfqCDv9pd1ZN10MEr5u6qYTwi5ivqj1ZBXw10g==",
+    "Syncfusion.Blazor.Data/26.2.12": {
+      "sha512": "cmt+ejqmu05aHsIYbE4t3zPGDJt1Brr/6/ZtIiHn9kJ7TWVBKYIDtkPZRZbMe8zTNq6wjBDFyaMhEJtNpzhgpA==",
       "type": "package",
-      "path": "syncfusion.blazor.popups/26.2.11",
+      "path": "syncfusion.blazor.data/26.2.12",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "build/Microsoft.AspNetCore.StaticWebAssets.props",
+        "build/Syncfusion.Blazor.Data.props",
+        "buildMultiTargeting/Syncfusion.Blazor.Data.props",
+        "buildTransitive/Syncfusion.Blazor.Data.props",
+        "lib/net6.0/Syncfusion.Blazor.Data.dll",
+        "lib/net6.0/Syncfusion.Blazor.Data.xml",
+        "lib/net7.0/Syncfusion.Blazor.Data.dll",
+        "lib/net7.0/Syncfusion.Blazor.Data.xml",
+        "lib/net8.0/Syncfusion.Blazor.Data.dll",
+        "lib/net8.0/Syncfusion.Blazor.Data.xml",
+        "staticwebassets/scripts/data.min.js",
+        "syncfusion.blazor.data.26.2.12.nupkg.sha512",
+        "syncfusion.blazor.data.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.Blazor.DropDowns/26.2.12": {
+      "sha512": "y6xLZrpL+5gJV7NHJoQnUZSecPW/16+weBNkZMv1UtSARGDu10ghb5VRIJ+RwQ/gmd/ruK3agAb0qjCl4LO5zw==",
+      "type": "package",
+      "path": "syncfusion.blazor.dropdowns/26.2.12",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "build/Microsoft.AspNetCore.StaticWebAssets.props",
+        "build/Syncfusion.Blazor.DropDowns.props",
+        "buildMultiTargeting/Syncfusion.Blazor.DropDowns.props",
+        "buildTransitive/Syncfusion.Blazor.DropDowns.props",
+        "lib/net6.0/Syncfusion.Blazor.DropDowns.dll",
+        "lib/net6.0/Syncfusion.Blazor.DropDowns.xml",
+        "lib/net7.0/Syncfusion.Blazor.DropDowns.dll",
+        "lib/net7.0/Syncfusion.Blazor.DropDowns.xml",
+        "lib/net8.0/Syncfusion.Blazor.DropDowns.dll",
+        "lib/net8.0/Syncfusion.Blazor.DropDowns.xml",
+        "staticwebassets/scripts/sf-dropdownlist.min.js",
+        "staticwebassets/scripts/sf-listbox.min.js",
+        "staticwebassets/scripts/sf-mention.min.js",
+        "staticwebassets/scripts/sf-multiselect.min.js",
+        "staticwebassets/scripts/sortable.min.js",
+        "syncfusion.blazor.dropdowns.26.2.12.nupkg.sha512",
+        "syncfusion.blazor.dropdowns.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.Blazor.Grid/26.2.12": {
+      "sha512": "KeUhGj1d95UMnEpT+LNGyvelY7zhXfGskKslAb0KA30nFzEAwn82/HldPWfcIdTs2Y2DJq960+ZnKMWspp+BGA==",
+      "type": "package",
+      "path": "syncfusion.blazor.grid/26.2.12",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "build/Microsoft.AspNetCore.StaticWebAssets.props",
+        "build/Syncfusion.Blazor.Grid.props",
+        "buildMultiTargeting/Syncfusion.Blazor.Grid.props",
+        "buildTransitive/Syncfusion.Blazor.Grid.props",
+        "lib/net6.0/Syncfusion.Blazor.Grids.dll",
+        "lib/net6.0/Syncfusion.Blazor.Grids.xml",
+        "lib/net7.0/Syncfusion.Blazor.Grids.dll",
+        "lib/net7.0/Syncfusion.Blazor.Grids.xml",
+        "lib/net8.0/Syncfusion.Blazor.Grids.dll",
+        "lib/net8.0/Syncfusion.Blazor.Grids.xml",
+        "staticwebassets/scripts/sf-grid.min.js",
+        "syncfusion.blazor.grid.26.2.12.nupkg.sha512",
+        "syncfusion.blazor.grid.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.Blazor.Inputs/26.2.12": {
+      "sha512": "EIJ/5i5Mdpv5G+FUO3EtON7RuQbRLAsacs9k6O9Ues4y99S4nUeYeTNNLZkvubNw/a7GuQejweerbLPGikODRA==",
+      "type": "package",
+      "path": "syncfusion.blazor.inputs/26.2.12",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "build/Microsoft.AspNetCore.StaticWebAssets.props",
+        "build/Syncfusion.Blazor.Inputs.props",
+        "buildMultiTargeting/Syncfusion.Blazor.Inputs.props",
+        "buildTransitive/Syncfusion.Blazor.Inputs.props",
+        "lib/net6.0/Syncfusion.Blazor.Inputs.dll",
+        "lib/net6.0/Syncfusion.Blazor.Inputs.xml",
+        "lib/net7.0/Syncfusion.Blazor.Inputs.dll",
+        "lib/net7.0/Syncfusion.Blazor.Inputs.xml",
+        "lib/net8.0/Syncfusion.Blazor.Inputs.dll",
+        "lib/net8.0/Syncfusion.Blazor.Inputs.xml",
+        "staticwebassets/scripts/sf-colorpicker.min.js",
+        "staticwebassets/scripts/sf-maskedtextbox.min.js",
+        "staticwebassets/scripts/sf-numerictextbox.min.js",
+        "staticwebassets/scripts/sf-otp-input.min.js",
+        "staticwebassets/scripts/sf-rating.min.js",
+        "staticwebassets/scripts/sf-signature.min.js",
+        "staticwebassets/scripts/sf-slider.min.js",
+        "staticwebassets/scripts/sf-textarea.min.js",
+        "staticwebassets/scripts/sf-textbox.min.js",
+        "staticwebassets/scripts/sf-uploader.min.js",
+        "syncfusion.blazor.inputs.26.2.12.nupkg.sha512",
+        "syncfusion.blazor.inputs.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.Blazor.Lists/26.2.12": {
+      "sha512": "XbTEE8Bxl/n1WL8JTH8X5rOxFYQcrYCULJzc6nDkRGJvmFZYsxpxMM8klAjuLgYsRrNSub3xfW//DeoRlcPfVw==",
+      "type": "package",
+      "path": "syncfusion.blazor.lists/26.2.12",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "build/Microsoft.AspNetCore.StaticWebAssets.props",
+        "build/Syncfusion.Blazor.Lists.props",
+        "buildMultiTargeting/Syncfusion.Blazor.Lists.props",
+        "buildTransitive/Syncfusion.Blazor.Lists.props",
+        "lib/net6.0/Syncfusion.Blazor.Lists.dll",
+        "lib/net6.0/Syncfusion.Blazor.Lists.xml",
+        "lib/net7.0/Syncfusion.Blazor.Lists.dll",
+        "lib/net7.0/Syncfusion.Blazor.Lists.xml",
+        "lib/net8.0/Syncfusion.Blazor.Lists.dll",
+        "lib/net8.0/Syncfusion.Blazor.Lists.xml",
+        "staticwebassets/scripts/sf-listview.min.js",
+        "syncfusion.blazor.lists.26.2.12.nupkg.sha512",
+        "syncfusion.blazor.lists.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.Blazor.Navigations/26.2.12": {
+      "sha512": "HuhCXDKo/GjLO6Lje9zqwEc/BOmmNztwC5Cmg7L9yUCqf+q6uCBNmjrJIFO5nGEKk7lQoizWJnR14i2xL6hQWA==",
+      "type": "package",
+      "path": "syncfusion.blazor.navigations/26.2.12",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "build/Microsoft.AspNetCore.StaticWebAssets.props",
+        "build/Syncfusion.Blazor.Navigations.props",
+        "buildMultiTargeting/Syncfusion.Blazor.Navigations.props",
+        "buildTransitive/Syncfusion.Blazor.Navigations.props",
+        "lib/net6.0/Syncfusion.Blazor.Navigations.dll",
+        "lib/net6.0/Syncfusion.Blazor.Navigations.xml",
+        "lib/net7.0/Syncfusion.Blazor.Navigations.dll",
+        "lib/net7.0/Syncfusion.Blazor.Navigations.xml",
+        "lib/net8.0/Syncfusion.Blazor.Navigations.dll",
+        "lib/net8.0/Syncfusion.Blazor.Navigations.xml",
+        "staticwebassets/scripts/navigationsbase.min.js",
+        "staticwebassets/scripts/sf-accordion.min.js",
+        "staticwebassets/scripts/sf-breadcrumb.min.js",
+        "staticwebassets/scripts/sf-carousel.min.js",
+        "staticwebassets/scripts/sf-contextmenu.min.js",
+        "staticwebassets/scripts/sf-dropdowntree.min.js",
+        "staticwebassets/scripts/sf-menu.min.js",
+        "staticwebassets/scripts/sf-pager.min.js",
+        "staticwebassets/scripts/sf-sidebar.min.js",
+        "staticwebassets/scripts/sf-stepper.min.js",
+        "staticwebassets/scripts/sf-tab.min.js",
+        "staticwebassets/scripts/sf-toolbar.min.js",
+        "staticwebassets/scripts/sf-treeview.min.js",
+        "syncfusion.blazor.navigations.26.2.12.nupkg.sha512",
+        "syncfusion.blazor.navigations.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.Blazor.Notifications/26.2.12": {
+      "sha512": "B3oE6kOEOuxZh6UWS8nL5TTr8MCJH455zijnw7FyzL4j9EZDDD0Ddvg+d3SXxPXEHiExBOjYhtZ5kAUeOBcWnw==",
+      "type": "package",
+      "path": "syncfusion.blazor.notifications/26.2.12",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "build/Microsoft.AspNetCore.StaticWebAssets.props",
+        "build/Syncfusion.Blazor.Notifications.props",
+        "buildMultiTargeting/Syncfusion.Blazor.Notifications.props",
+        "buildTransitive/Syncfusion.Blazor.Notifications.props",
+        "lib/net6.0/Syncfusion.Blazor.Notifications.dll",
+        "lib/net6.0/Syncfusion.Blazor.Notifications.xml",
+        "lib/net7.0/Syncfusion.Blazor.Notifications.dll",
+        "lib/net7.0/Syncfusion.Blazor.Notifications.xml",
+        "lib/net8.0/Syncfusion.Blazor.Notifications.dll",
+        "lib/net8.0/Syncfusion.Blazor.Notifications.xml",
+        "staticwebassets/scripts/sf-toast.min.js",
+        "syncfusion.blazor.notifications.26.2.12.nupkg.sha512",
+        "syncfusion.blazor.notifications.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.Blazor.Popups/26.2.12": {
+      "sha512": "jd8GtK/aawEACbycLsGzdRRA++AZVTVht5iNazUQ8Z5KFlVbD1c9cNbZKDHm/dRvH+2IFKDokgjLhMEFM7QRPg==",
+      "type": "package",
+      "path": "syncfusion.blazor.popups/26.2.12",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2951,15 +3741,67 @@
         "lib/net8.0/Syncfusion.Blazor.Popups.xml",
         "staticwebassets/scripts/sf-dialog.min.js",
         "staticwebassets/scripts/sf-tooltip.min.js",
-        "syncfusion.blazor.popups.26.2.11.nupkg.sha512",
+        "syncfusion.blazor.popups.26.2.12.nupkg.sha512",
         "syncfusion.blazor.popups.nuspec",
         "syncfusion_logo.png"
       ]
     },
-    "Syncfusion.Blazor.Themes/26.2.11": {
-      "sha512": "4Fd5wET99URs1YTvTUQAf7Vo9aVRZi3zXLv/8C4D7BaY8hzcvTabrY438OkeTUoHtFU2hODXkRJDqilztqQJtQ==",
+    "Syncfusion.Blazor.Spinner/26.2.12": {
+      "sha512": "Asd69T/iHUaaGvg0K9N2ZYfQyr4PpRgdTgAZvwpythirnpixJR8rSmdCtL3gghRnR57lCQ4QPmSdobYeoR7uBA==",
       "type": "package",
-      "path": "syncfusion.blazor.themes/26.2.11",
+      "path": "syncfusion.blazor.spinner/26.2.12",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "build/Microsoft.AspNetCore.StaticWebAssets.props",
+        "build/Syncfusion.Blazor.Spinner.props",
+        "buildMultiTargeting/Syncfusion.Blazor.Spinner.props",
+        "buildTransitive/Syncfusion.Blazor.Spinner.props",
+        "lib/net6.0/Syncfusion.Blazor.Spinner.dll",
+        "lib/net6.0/Syncfusion.Blazor.Spinner.xml",
+        "lib/net7.0/Syncfusion.Blazor.Spinner.dll",
+        "lib/net7.0/Syncfusion.Blazor.Spinner.xml",
+        "lib/net8.0/Syncfusion.Blazor.Spinner.dll",
+        "lib/net8.0/Syncfusion.Blazor.Spinner.xml",
+        "staticwebassets/scripts/sf-spinner.min.js",
+        "staticwebassets/scripts/spinner.min.js",
+        "syncfusion.blazor.spinner.26.2.12.nupkg.sha512",
+        "syncfusion.blazor.spinner.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.Blazor.SplitButtons/26.2.12": {
+      "sha512": "mpVdwdHKoD0NOMfoJcPMxOp9PBgKGjJXSQYO+sPUQumCgFezn85ky3SQdHt/9X95pDpabXznmc8bW+zW7j6GOg==",
+      "type": "package",
+      "path": "syncfusion.blazor.splitbuttons/26.2.12",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "build/Microsoft.AspNetCore.StaticWebAssets.props",
+        "build/Syncfusion.Blazor.SplitButtons.props",
+        "buildMultiTargeting/Syncfusion.Blazor.SplitButtons.props",
+        "buildTransitive/Syncfusion.Blazor.SplitButtons.props",
+        "lib/net6.0/Syncfusion.Blazor.SplitButtons.dll",
+        "lib/net6.0/Syncfusion.Blazor.SplitButtons.xml",
+        "lib/net7.0/Syncfusion.Blazor.SplitButtons.dll",
+        "lib/net7.0/Syncfusion.Blazor.SplitButtons.xml",
+        "lib/net8.0/Syncfusion.Blazor.SplitButtons.dll",
+        "lib/net8.0/Syncfusion.Blazor.SplitButtons.xml",
+        "staticwebassets/scripts/sf-drop-down-button.min.js",
+        "staticwebassets/scripts/splitbuttonsbase.min.js",
+        "syncfusion.blazor.splitbuttons.26.2.12.nupkg.sha512",
+        "syncfusion.blazor.splitbuttons.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.Blazor.Themes/26.2.12": {
+      "sha512": "mXe2Y/hX3yBhvhnbXkOvwoKWuKqpJydlpnbUJ+vLJJdfsNvpwqpf/MuTyFhJyGPBbaty5nNB6FPruDSgOqymGQ==",
+      "type": "package",
+      "path": "syncfusion.blazor.themes/26.2.12",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2997,15 +3839,36 @@
         "staticwebassets/material3.css",
         "staticwebassets/tailwind-dark.css",
         "staticwebassets/tailwind.css",
-        "syncfusion.blazor.themes.26.2.11.nupkg.sha512",
+        "syncfusion.blazor.themes.26.2.12.nupkg.sha512",
         "syncfusion.blazor.themes.nuspec",
         "syncfusion_logo.png"
       ]
     },
-    "Syncfusion.Licensing/26.2.11": {
-      "sha512": "GyivFOd8didTTL6Kw8a5CW5PgcN3sEn0Z9E8Yg3EqjhQ2KGQ9LGQbhRfrzJQAwaDESXe8gD/baaDFxCA8tGdvA==",
+    "Syncfusion.ExcelExport.Net.Core/26.2.12": {
+      "sha512": "G9j9if17SK6B7IBR7PPB0LPP5uvCZF2IT7pGJEIFXor3xCrw2Lkmeig7ESGIupdyAmmDPh/+VLy4jTy6MCItmw==",
       "type": "package",
-      "path": "syncfusion.licensing/26.2.11",
+      "path": "syncfusion.excelexport.net.core/26.2.12",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "lib/net6.0/Syncfusion.ExcelExport.Net.dll",
+        "lib/net6.0/Syncfusion.ExcelExport.Net.xml",
+        "lib/net7.0/Syncfusion.ExcelExport.Net.dll",
+        "lib/net7.0/Syncfusion.ExcelExport.Net.xml",
+        "lib/net8.0/Syncfusion.ExcelExport.Net.dll",
+        "lib/net8.0/Syncfusion.ExcelExport.Net.xml",
+        "lib/netstandard2.0/Syncfusion.ExcelExport.Net.dll",
+        "lib/netstandard2.0/Syncfusion.ExcelExport.Net.xml",
+        "syncfusion.excelexport.net.core.26.2.12.nupkg.sha512",
+        "syncfusion.excelexport.net.core.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.Licensing/26.2.12": {
+      "sha512": "Pvqkm68lY9CE6oe5xqrPYocVfPFOIog4+F6TiPyk3pyImvD7hatGQK2vh7wkzrqXDLUqf0RNeWWM0RT3g3ajsg==",
+      "type": "package",
+      "path": "syncfusion.licensing/26.2.12",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3022,8 +3885,29 @@
         "lib/net8.0/Syncfusion.Licensing.dll",
         "lib/netstandard2.0/Syncfusion.Licensing.dll",
         "lib/uap10.0/Syncfusion.Licensing.dll",
-        "syncfusion.licensing.26.2.11.nupkg.sha512",
+        "syncfusion.licensing.26.2.12.nupkg.sha512",
         "syncfusion.licensing.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.PdfExport.Net.Core/26.2.12": {
+      "sha512": "8yoDgX6PXAxvxY1GN7eCB6swaFSCZ12nwmu8/KSe7N9ojqrouIqr5tZhL686wN9MSl3wbIsTpdYNW2oF0R+FZw==",
+      "type": "package",
+      "path": "syncfusion.pdfexport.net.core/26.2.12",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "lib/net6.0/Syncfusion.PdfExport.Net.dll",
+        "lib/net6.0/Syncfusion.PdfExport.Net.xml",
+        "lib/net7.0/Syncfusion.PdfExport.Net.dll",
+        "lib/net7.0/Syncfusion.PdfExport.Net.xml",
+        "lib/net8.0/Syncfusion.PdfExport.Net.dll",
+        "lib/net8.0/Syncfusion.PdfExport.Net.xml",
+        "lib/netstandard2.0/Syncfusion.PdfExport.Net.dll",
+        "lib/netstandard2.0/Syncfusion.PdfExport.Net.xml",
+        "syncfusion.pdfexport.net.core.26.2.12.nupkg.sha512",
+        "syncfusion.pdfexport.net.core.nuspec",
         "syncfusion_logo.png"
       ]
     },
@@ -3237,9 +4121,11 @@
       "Microsoft.Extensions.Http >= 8.0.0",
       "Microsoft.NET.ILLink.Tasks >= 8.0.7",
       "Microsoft.NET.Sdk.WebAssembly.Pack >= 8.0.7",
-      "Syncfusion.Blazor.Buttons >= 26.2.11",
-      "Syncfusion.Blazor.Popups >= 26.2.11",
-      "Syncfusion.Blazor.Themes >= 26.2.11"
+      "Syncfusion.Blazor.Buttons >= 26.2.12",
+      "Syncfusion.Blazor.DropDowns >= 26.2.12",
+      "Syncfusion.Blazor.Grid >= 26.2.12",
+      "Syncfusion.Blazor.Popups >= 26.2.12",
+      "Syncfusion.Blazor.Themes >= 26.2.12"
     ]
   },
   "packageFolders": {
@@ -3329,15 +4215,23 @@
           },
           "Syncfusion.Blazor.Buttons": {
             "target": "Package",
-            "version": "[26.2.11, )"
+            "version": "[26.2.12, )"
+          },
+          "Syncfusion.Blazor.DropDowns": {
+            "target": "Package",
+            "version": "[26.2.12, )"
+          },
+          "Syncfusion.Blazor.Grid": {
+            "target": "Package",
+            "version": "[26.2.12, )"
           },
           "Syncfusion.Blazor.Popups": {
             "target": "Package",
-            "version": "[26.2.11, )"
+            "version": "[26.2.12, )"
           },
           "Syncfusion.Blazor.Themes": {
             "target": "Package",
-            "version": "[26.2.11, )"
+            "version": "[26.2.12, )"
           }
         },
         "imports": [

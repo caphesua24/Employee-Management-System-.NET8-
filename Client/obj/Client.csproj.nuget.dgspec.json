@@ -238,15 +238,23 @@
             },
             "Syncfusion.Blazor.Buttons": {
               "target": "Package",
-              "version": "[26.2.11, )"
+              "version": "[26.2.12, )"
+            },
+            "Syncfusion.Blazor.DropDowns": {
+              "target": "Package",
+              "version": "[26.2.12, )"
+            },
+            "Syncfusion.Blazor.Grid": {
+              "target": "Package",
+              "version": "[26.2.12, )"
             },
             "Syncfusion.Blazor.Popups": {
               "target": "Package",
-              "version": "[26.2.11, )"
+              "version": "[26.2.12, )"
             },
             "Syncfusion.Blazor.Themes": {
               "target": "Package",
-              "version": "[26.2.11, )"
+              "version": "[26.2.12, )"
             }
           },
           "imports": [

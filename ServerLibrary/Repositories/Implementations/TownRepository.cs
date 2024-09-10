@@ -23,9 +23,17 @@ namespace ServerLibrary.Repositories.Implementations
             return Success();
         }
 
-        public async Task<List<Town>> GetAll() => await appDbContext.Towns.ToListAsync();
+        public async Task<List<Town>> GetAll() => await appDbContext
+            .Towns
+            .AsNoTracking()
+            .Include(t=>t.City)
+            .ToListAsync();
 
-        public async Task<Town> GetById(int id) => await appDbContext.Towns.FindAsync(id);
+        public async Task<Town> GetById(int id) 
+        {
+            var result = await appDbContext.Towns.FindAsync(id);
+            return result!;
+        }
 
         public async Task<GeneralResponse> Insert(Town item)
         {
@@ -40,6 +48,7 @@ namespace ServerLibrary.Repositories.Implementations
             var town = await appDbContext.Towns.FindAsync(item.Id);
             if (town is null) return NotFound();
             town.Name = item.Name;
+            town.CityID = item.CityID;
             await Commit();
             return Success();
         }

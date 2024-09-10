@@ -1,5 +1,4 @@
 ﻿
-
 using BaseLibrary.Entities;
 using BaseLibrary.Responese;
 using Microsoft.EntityFrameworkCore;
@@ -45,7 +44,7 @@ namespace ServerLibrary.Repositories.Implementations
             return Success();
         }
 
-        private static GeneralResponse NotFound() => new(false, "Sorry department not found");
+        private static GeneralResponse NotFound() => new(false, "Sorry general department not found");
         private static GeneralResponse Success() => new(true, "Process completed");
         private async Task Commit() => await appDbContext.SaveChangesAsync();
         //This method is used to ensure that no department has the same name before adding a new department to the database.

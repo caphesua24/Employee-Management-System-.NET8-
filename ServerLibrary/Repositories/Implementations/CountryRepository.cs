@@ -24,7 +24,11 @@ namespace ServerLibrary.Repositories.Implementations
 
         public async Task<List<Country>> GetAll() => await appDbContext.Countries.ToListAsync();
 
-        public async Task<Country> GetById(int id) => await appDbContext.Countries.FindAsync(id);
+        public async Task<Country> GetById(int id) 
+        {
+            var result = await appDbContext.Countries.FindAsync(id);
+            return result!;
+        } 
 
         public async Task<GeneralResponse> Insert(Country item)
         {

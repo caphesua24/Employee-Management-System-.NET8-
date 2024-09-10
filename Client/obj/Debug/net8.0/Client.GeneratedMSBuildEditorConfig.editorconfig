@@ -46,6 +46,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb25QYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/ContentPage/DepartmentPages/BranchDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFBhZ2VcRGVwYXJ0bWVudFBhZ2VzXEJyYW5jaERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/ContentPage/DepartmentPages/BranchPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFBhZ2VcRGVwYXJ0bWVudFBhZ2VzXEJyYW5jaFBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/ContentPage/DepartmentPages/DepartmentDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFBhZ2VcRGVwYXJ0bWVudFBhZ2VzXERlcGFydG1lbnREaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/ContentPage/DepartmentPages/DepartmentPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFBhZ2VcRGVwYXJ0bWVudFBhZ2VzXERlcGFydG1lbnRQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/ContentPage/DepartmentPages/GeneralDepartmentDialog.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFBhZ2VcRGVwYXJ0bWVudFBhZ2VzXEdlbmVyYWxEZXBhcnRtZW50RGlhbG9nLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -54,8 +70,48 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFBhZ2VcRGVwYXJ0bWVudFBhZ2VzXEdlbmVyYWxEZXBhcnRtZW50UGFnZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/ContentPage/EmployeePages/AddOrUpdateEmployeePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFBhZ2VcRW1wbG95ZWVQYWdlc1xBZGRPclVwZGF0ZUVtcGxveWVlUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/ContentPage/EmployeePages/EmployeePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFBhZ2VcRW1wbG95ZWVQYWdlc1xFbXBsb3llZVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/ContentPage/HomePage.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFBhZ2VcSG9tZVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/ContentPage/LocationPages/CityDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFBhZ2VcTG9jYXRpb25QYWdlc1xDaXR5RGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/ContentPage/LocationPages/CityPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFBhZ2VcTG9jYXRpb25QYWdlc1xDaXR5UGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/ContentPage/LocationPages/CountryDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFBhZ2VcTG9jYXRpb25QYWdlc1xDb3VudHJ5RGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/ContentPage/LocationPages/CountryPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFBhZ2VcTG9jYXRpb25QYWdlc1xDb3VudHJ5UGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/ContentPage/LocationPages/TownDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFBhZ2VcTG9jYXRpb25QYWdlc1xUb3duRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/ContentPage/LocationPages/TownPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFBhZ2VcTG9jYXRpb25QYWdlc1xUb3duUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/ContentPage/UserPages/UserDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFBhZ2VcVXNlclBhZ2VzXFVzZXJEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/ContentPage/UserPages/UserPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFBhZ2VcVXNlclBhZ2VzXFVzZXJQYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Projects/EmployeeManagementSystem_NET8/Employee-Management-System-With.NET8/Client/Pages/OtherPages/ButtonLoadingSpinner.razor]
